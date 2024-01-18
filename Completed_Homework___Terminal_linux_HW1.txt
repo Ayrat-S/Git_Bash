@@ -1,5 +1,8 @@
-Первая часть ДЗ - Linux terminal (GitBash) commands
-28_QA_Group
+Completed_Homework___Terminal_linux_HW1
+@Ayrat_Sharifullin
+
+Ссылка на домашнее задание (Linux terminal_1):
+https://docs.google.com/document/d/1hwRe9HmeNBuBPS2aGLX9jLSm9PHiJcu-jdYZL0pQepA/edit
 
 1) Посмотреть где я: pwd
 2) Создать папку: mkdir main_d

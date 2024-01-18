@@ -1,4 +1,10 @@
-Termial. HW_2
+Completed_Homework___Terminal_linux_HW2
+@Ayrat_Sharifullin
+
+Ссылка на домашнее задание (Termial_HM_2):
+https://docs.google.com/document/d/1bcf5r_dd0PZj1j0KZO7OQzLUSRm-RqnjVYJBZK4bIUI/edit
+
+
 1. Сделать папку dir_1
 mkdir dir_1
 
